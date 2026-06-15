@@ -47,3 +47,7 @@ python3 main.py
 
 === DIFF ===
 [reasoning differences between the two models]
+
+
+
+![screen es](screen.png)
