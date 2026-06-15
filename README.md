@@ -50,4 +50,4 @@ python3 main.py
 
 
 
-![screen es](screen.png)
+<img src="screen.png" width="400"/>
