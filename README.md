@@ -20,7 +20,7 @@ export OLLAMA_BASE_URL="https://ollama.com"
 
 export GOOGLE_API_KEY="api_key"
 
-## edit model e prompt in main.py
+## Edit model e prompt in main.py
 
 
 
