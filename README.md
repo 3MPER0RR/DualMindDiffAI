@@ -7,7 +7,7 @@ cd DualMindDiff
 python3 -m venv venv
 source venv/bin/activate
 
-pip install requests, python-dotenv
+pip install requests python-dotenv
 
 
 ## Usage e configure
