@@ -52,5 +52,5 @@ python3 main.py
 es CVE-2024-21413
 
 <img src="screen.png" width="400"/>
-<video src="cve-video.mp4" controls width="700"></video>
 
+[video](https://github.com/3MPER0RR/DualMindDiffAI/blob/main/cve-video.mp4)
