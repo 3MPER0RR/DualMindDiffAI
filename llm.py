@@ -62,7 +62,7 @@ class OllamaCloudAdapter(LLMInterface):
                     "messages": [{"role": "user", "content": prompt}],
                     "stream": False
                 },
-                timeout=120
+                timeout=340
             )
             r.raise_for_status()
             data = r.json()
@@ -91,7 +91,7 @@ class GoogleAdapter(LLMInterface):
                         {"parts": [{"text": prompt}]}
                     ]
                 },
-                timeout=120
+                timeout=340
             )
             r.raise_for_status()
             data = r.json()
