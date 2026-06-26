@@ -39,13 +39,13 @@ python3 main.py
 
 ## output 
 
-=== SAFE ===
+ SAFE
 [filtered analysis from the first model]
 
-=== RAW ===
+RAW
 [raw analysis from the second model]
 
-=== DIFF ===
+DIFF
 [reasoning differences between the two models]
 
 
