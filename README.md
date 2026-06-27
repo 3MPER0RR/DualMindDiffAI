@@ -20,6 +20,8 @@ export OLLAMA_BASE_URL="https://ollama.com"
 
 export GOOGLE_API_KEY="api_key"
 
+```bash
+
 ## Edit model e prompt in main.py
 
 
@@ -32,7 +34,7 @@ run(
     raw_llm_mode="google",
     raw_model="gemini-2.5-flash"
 )
-
+```
 
 
 python3 main.py
